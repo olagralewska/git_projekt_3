@@ -1,1 +1,1 @@
-hadg
+print("Hello world")
